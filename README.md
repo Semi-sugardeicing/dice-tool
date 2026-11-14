@@ -6,13 +6,13 @@
 <img alt="tkinter" src="https://img.shields.io/badge/tkinter-%E6%A0%87%E5%87%86%E5%BA%93-FFD43B?style=for-the-badge&logo=python&logoColor=black">
 <img alt="Windows" src="https://img.shields.io/badge/Windows-exe-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
-![开始界面](docs/截图_开始界面.png)
+![开始界面](docs/screenshot-start.png)
 
 ## 怎么玩
 
 打开以后点右下角的「开 始」，中间的数字就开始飞快滚动，再点一下「暂 停」，数字停下来，那就是你这一把的点数。想重来就点左下角的「回到主页」，回到最开始的样子。
 
-![掷出结果](docs/截图_掷出结果.png)
+![掷出结果](docs/screenshot-result.png)
 
 数字是 1 到 6 之间随机出来的，滚得越快越像真的在掷骰子。
 
