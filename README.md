@@ -1,6 +1,10 @@
-# 骰子
+<h1>🎲 骰子 · Dice</h1>
 
 一个纯本地的小窗口程序，**不用联网、不装 Python 也能用**，双击就开。
+
+<img alt="Python" src="https://img.shields.io/badge/Python-3.6%2B-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img alt="tkinter" src="https://img.shields.io/badge/tkinter-%E6%A0%87%E5%87%86%E5%BA%93-FFD43B?style=for-the-badge&logo=python&logoColor=black">
+<img alt="Windows" src="https://img.shields.io/badge/Windows-exe-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 ![开始界面](docs/截图_开始界面.png)
 
@@ -34,6 +38,16 @@ Python 3.6 以上即可。窗口用 tkinter，是 Python 自带的库，不需�
 |---|---|
 | 开 始 | 开始滚动 / 暂停定格 |
 | 回到主页 | 清空数字，回到初始状态 |
+
+## 项目结构
+
+```
+dice-tool/
+├── 骰子.py            源码（全部逻辑都在这一个文件里）
+├── docs/              截图
+├── LICENSE
+└── README.md
+```
 
 ## 许可
 
